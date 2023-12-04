@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "def5fa77-f908-4f04-91b6-daf5021d84f0": {
+      "ProjectGuid": "def5fa77-f908-4f04-91b6-daf5021d84f0",
+      "DisplayName": "InkSpace",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
